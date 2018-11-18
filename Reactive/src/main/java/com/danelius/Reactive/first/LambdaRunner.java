@@ -1,4 +1,4 @@
-package com.danelius.Reactive;
+package com.danelius.Reactive.first;
 
 import io.reactivex.Observable;
 import io.reactivex.functions.Action;

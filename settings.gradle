@@ -1,0 +1,3 @@
+include 'Reactive'
+findProject(':Reactive')?.name = 'ReactiveJava'
+

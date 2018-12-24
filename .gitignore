@@ -1,16 +1,11 @@
 .gradle
 /build/
 
-grade-app.setting
+gradle-app.setting
 
-!gradel-wrapper.jar
+!gradle-wrapper.jar
 
-.idea/workspace.xml
-.idea/usage.statistics.xml
-.idea/tasks.xml
-.idea/libraries/*.xml
-.idea/modules.xml
-.idea/gradle.xml
+.idea
 
 *.iml
 
